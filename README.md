@@ -16,11 +16,11 @@
   <img align="right" width="400" src="https://i.pinimg.com/originals/2d/90/92/2d9092a49b889204284f0dea4ce7ec8b.gif">
 </p>
 
-- 👤 I’m **20** years old
+- 👤 I’m **21** years old
 
 - 🔧 **Bot Dev** & **Web3 Dev**
 
-- 💎 **5+ years** of coding experience
+- 💎 **6+ years** of coding experience
 
 - 📫 How to reach me
   <a href="https://t.me/SmartMainnet">
